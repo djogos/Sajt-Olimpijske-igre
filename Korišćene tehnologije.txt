@@ -1,0 +1,4 @@
+NetBeans 8.0.2
+GlassFisf 4.1
+JSF 2.2
+PrimeFaces 5.0
